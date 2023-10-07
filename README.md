@@ -1,2 +1,2 @@
-# to-do-listt
+# to-do-list
 to-do-list
